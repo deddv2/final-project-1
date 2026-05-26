@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Michigan Facts and History</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Exploring the Great Lakes State: Michigan</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Key Facts About Michigan</h2>
+            <p>Michigan is a unique state known for its rich history, automotive industry, and stunning natural
+                landscapes.</p>
+
+            <h3>State Highlights</h3>
+            <ul>
+                <li>Surrounded by four of the Great Lakes: Superior, Michigan, Huron, and Erie.</li>
+                <li>The only state in the US split into two distinct peninsulas: the Upper and Lower Peninsulas.</li>
+                <li>Known as the birthplace of the modern American automobile industry, centered in Detroit.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Visual Gallery</h2>
+            <img src="images/mackinac_bridge.jpg"
+                alt="The suspension cables and towers of the historic Mackinac Bridge connecting Michigan's peninsulas at sunset.">
+
+            <img src="images/lake_michigan.jpg"
+                alt="Clear blue waters and sandy shoreline dunes along the coast of Lake Michigan on a sunny day.">
+
+            <img src="images/detroit_skyline.jpg"
+                alt="The modern skyscrapers of the Detroit city skyline reflecting off the surface of the Detroit River.">
+        </section>
+
+        <section>
+            <h2>External Resources</h2>
+            <p>To learn more about travel and official statistics, visit the official platform:</p>
+            <a href="https://www.michigan.org" target="_blank" rel="noopener">Official Pure Michigan Tourism Website</a>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Michigan Exploration Project. Built for educational validation purposes.</p>
+    </footer>
+
+</body>
+
+</html>
